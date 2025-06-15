@@ -108,7 +108,7 @@
     &nbsp;&nbsp;
      <a href="https://code.visualstudio.com/" target="_blank" rel="noreferrer"> <img src="./img/vs.jpg" alt="visual studio code" width="40" height="40" /> </a>
     &nbsp;&nbsp;
-    <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer"> <img src="./img/VS_2022.svg" alt="visual studio 2022" width="40" height="40" /> </a>
+    <a href="https://visualstudio.microsoft.com/vs/" target="_blank" rel="noreferrer"> <img src="./img/VS_2022.png" alt="visual studio 2022" width="40" height="40" /> </a>
     &nbsp;&nbsp;
 </p>
 

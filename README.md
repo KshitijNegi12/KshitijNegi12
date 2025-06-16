@@ -2,7 +2,7 @@
     <img src="./img/anim.gif" align="center" style="width: 100%;" />
 </div>
 
-<h3 align="center">I'm Kshitij, a passionate frontend developer from India</h3>
+<h3 align="center">I'm Kshitij, a Full Stack Developer from India</h3>
 
 <p align="left">
     <img src="https://komarev.com/ghpvc/?username=kshitijnegi12&label=Profile%20views&color=0e75b6&style=flat" alt="kshitijnegi12" />
